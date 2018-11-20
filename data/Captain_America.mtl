@@ -1,0 +1,34 @@
+# 3ds Max Wavefront OBJ Exporter
+# 
+
+newmtl Material__27
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.3690 0.3690 0.3690
+	Ke 0.4880 0.4880 0.4880
+	map_Ka Marvel  Ultimate Alliance-f3452c0.dds
+	map_Kd Marvel  Ultimate Alliance-f3452c0.dds
+	map_bump Marvel  Ultimate Alliance-f3fd9c0.dds
+	bump Marvel  Ultimate Alliance-f3fd9c0.dds
+
+newmtl Material__28
+	Ns 26.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 1.0710 1.0710 1.0710
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Marvel  Ultimate Alliance-f3bcae0.dds
+	map_Kd Marvel  Ultimate Alliance-f3bcae0.dds
+	map_bump Marvel  Ultimate Alliance-f343c00.dds
+	bump Marvel  Ultimate Alliance-f343c00.dds
